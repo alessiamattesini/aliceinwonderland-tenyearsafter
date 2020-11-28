@@ -88,7 +88,7 @@ function preload() {
     game.load.spritesheet('playagainperso', 'assets/render/TASTO(PERSO).png', 202.6, 32);
     game.load.image('playstory', 'assets/sprites/playstoria.png');
     game.load.spritesheet('home_home', 'assets/sprites/HOME.png', 186, 63);
-    game.load.spritesheet('resume', 'assets/sprites/resume.png', 257, 63);
+    game.load.spritesheet('resume', 'assets/sprites/RESUME.png', 257, 63);
     game.load.image('sinistra', 'assets/sprites/sx.png');
     game.load.image('destra', 'assets/sprites/dx.png');
     game.load.image('cielo', 'assets/sprites/sfondocielo.png');
