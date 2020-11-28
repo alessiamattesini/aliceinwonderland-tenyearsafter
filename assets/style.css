@@ -1,0 +1,10 @@
+canvas {
+  display: block;
+  margin: auto;
+  margin-top: 40px;
+}
+
+body {
+  background-image: url(sprites/tassellazione.png);
+  background-repeat:repeat;
+}
